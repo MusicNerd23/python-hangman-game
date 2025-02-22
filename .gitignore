@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+*.egg-info/
+dist/
+build/
+
+# Logs and Databases
+*.log
+*.sqlite3
+
+# VS Code & IDE Specific
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS-Specific
+.DS_Store
+Thumbs.db
